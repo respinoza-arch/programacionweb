@@ -8,11 +8,11 @@ PROFESOR: 	MGT GREGORIO CRUZ
 
 ALUMNO: 	RICHARD FABIÁN ESPINOZA ALMEIDA, 
 
-TAREA: ACTIVIDAD INTEGRADORA 1 
+TAREA: ACTIVIDAD INTEGRADORA 2
 
-Mi Primera Página Web Personal (HTML + CSS mínimo)
+Inventario + Ventas Simple (PHP + GitHub)
 
 Objetivo
 
-Crear una página web personal usando HTML, aplicando correctamente etiquetas, estructura y organización del contenido.
-Enfocado en aprender HTML, no en diseño.
+Desarrollar un sistema web en PHP que permita gestionar productos y registrar ventas, aplicando buenas prácticas de programación, 
+estructura por capas, validaciones, seguridad básica y control de versiones con GitHub.
