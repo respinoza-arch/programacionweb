@@ -1,0 +1,105 @@
+body{
+    font-size: 16px;
+    font-family: "Dancing Script", cursive;
+}
+header, footer {
+text-align: left;
+padding: 20px;
+}
+
+nav {
+background-color: #1365a6;
+padding: 10px;
+text-align: center;
+}
+
+nav a {
+color: white;
+margin: 10px;
+text-decoration: none;
+}
+
+section {
+padding: 20px;
+margin: 10px;
+}
+
+/* Primera parte */
+#inicio {
+background-color: #a6a79d;
+color: #ffffff;
+}
+
+#inicio h1, #inicio h2 {
+font-size: 26px;
+}
+
+#inicio p {
+font-size: 22px;
+}
+
+/* Segunda parte */
+#datos {
+background-color: #7777c9;
+color: white;
+}
+
+#datos h2 {
+font-size: 16px;
+text-decoration: underline;
+}
+
+#datos p {
+font-size: 14px;
+}
+
+/* Tercera parte */
+#gustos {
+background-color: #edd5d5;
+}
+
+#gustos h2 {
+color: #000000;
+font-size: 20x;
+}
+
+#gustos p, #gustos li {
+color: black;
+font-size: 16px;
+}
+
+/* Cuarta parte */
+#formacion {
+background-color: #3d3d63;
+color: #ebeb93;
+}
+
+/* Contacto */
+#contacto {
+background-color: #538d4a;
+}
+
+form {
+margin-top: 15px;
+}
+
+input, textarea {
+display: block;
+margin: 10px 0;
+padding: 8px;
+width: 250px;
+}
+
+button {
+padding: 10px;
+}
+
+h1 {   color: blue; } 
+.title {   color: red; } 
+#titulo {   color: green; }
+
+/*
+h1.title { color: blue; } 
+.title { color: red; } 
+h1 { color: green; }
+*/
